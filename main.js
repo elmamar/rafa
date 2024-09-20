@@ -1,1 +1,1 @@
-(deucerto)
+alert(deucerto)
