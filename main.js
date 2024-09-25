@@ -16,4 +16,4 @@ let media = function (num1,num2,num3){
 }
     console.log ((2,4,3));
 
-   
+   parseInt(prompt('qual seu nome?'))
