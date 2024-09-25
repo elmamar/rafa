@@ -12,7 +12,7 @@ return lado**2;
 console.log (areaquadrado(4));
 
 let media= function caculemedia(num1,num2,num3){
-    return num1+num2+num3/3
+    return num1+num2+num3/3;
 }
     console.log (caculemedia(2,4,3));
 
